@@ -16,6 +16,7 @@
         <module>wechat-http</module>
         <module>wechat-cache</module>
         <module>examples</module>
+        <module>client-manager</module>
     </modules>
 
 
